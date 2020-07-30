@@ -7,6 +7,6 @@ export class CoursesService {
   constructor() {}
 
   getCourses() {
-    return ['Angular', 'Inles', 'Ract', 'node', 'Vue'];
+    return ['Curso_1', 'Curso_2', 'Curso_3', 'Curso_4', 'Curso_5'];
   }
 }
